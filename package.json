@@ -2,7 +2,7 @@
   "name": "n8n-nodes-upstash",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for Upstash providing Redis, Kafka, QStash, and Vector database operations. Includes 12 resource categories and 80+ operations for serverless data management.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -71,7 +71,7 @@
     "eslint-plugin-n8n-nodes-base": "^1.16.1",
     "gulp": "^4.0.2",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.27.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.2.5",
     "ts-jest": "^29.1.2",
     "typescript": "^5.3.3"
